@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Bdt added,some table is modified according to theme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Registration/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Registration/RegisterController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1ixhT6VCG3me0B9xV7NVkcRcV0b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\Main" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\images" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\SupplyDetails" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\Accounts\Summary\EventSummary" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\EventDetails\EventHistory\EventSupply\Health" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\EventDetails\EventHistory\EventSupply\Food" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\EventDetails\ManageEvent\AssignSupply\EventFood" />
+      <recent name="D:\Two_Two_Material\spl2 project\NGO-Management-System\src\EventDetails" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="EventDetails.ManageEvent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="Ngo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SHAExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SHAExample" />
+      <module name="Ngo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViewEventFoodController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EventDetails.ManageEvent.AssignSupply.EventFood.ViewEventFoodController" />
+      <module name="Ngo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EventDetails.ManageEvent.AssignSupply.EventFood.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SHAExample" />
+        <item itemvalue="Application.ViewEventFoodController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1606538304923" duration="34248000" />
+      <workItem from="1606626393666" duration="14032000" />
+      <workItem from="1606660247193" duration="5215000" />
+      <workItem from="1606701833715" duration="164000" />
+      <workItem from="1606726151187" duration="3554000" />
+      <workItem from="1606729919196" duration="2529000" />
+      <workItem from="1606734039795" duration="1852000" />
+      <workItem from="1606756559424" duration="9473000" />
+      <workItem from="1606786661596" duration="17528000" />
+      <workItem from="1607058575577" duration="8225000" />
+      <workItem from="1607092261623" duration="4166000" />
+      <workItem from="1607676211146" duration="9834000" />
+      <workItem from="1607764315230" duration="2160000" />
+      <workItem from="1607778949469" duration="6702000" />
+      <workItem from="1608040007923" duration="1251000" />
+      <workItem from="1608180272005" duration="18137000" />
+      <workItem from="1608235463282" duration="2615000" />
+      <workItem from="1608293449927" duration="13963000" />
+      <workItem from="1608349537343" duration="12074000" />
+      <workItem from="1608385764115" duration="10741000" />
+      <workItem from="1608403723762" duration="2603000" />
+      <workItem from="1608439342791" duration="11228000" />
+      <workItem from="1609406861748" duration="2031000" />
+      <workItem from="1609774905089" duration="2898000" />
+      <workItem from="1612018109736" duration="4336000" />
+      <workItem from="1612022695009" duration="6341000" />
+      <workItem from="1612070866562" duration="1460000" />
+      <workItem from="1612160552409" duration="2785000" />
+      <workItem from="1612167126200" duration="15521000" />
+      <workItem from="1612245472143" duration="26293000" />
+      <workItem from="1612275925853" duration="5925000" />
+      <workItem from="1612284149518" duration="738000" />
+      <workItem from="1612284911953" duration="4577000" />
+      <workItem from="1612366733490" duration="805000" />
+      <workItem from="1612372659662" duration="8586000" />
+      <workItem from="1612381536901" duration="565000" />
+      <workItem from="1612382121924" duration="2303000" />
+      <workItem from="1612384580101" duration="6545000" />
+      <workItem from="1612422663660" duration="818000" />
+      <workItem from="1612427904980" duration="9905000" />
+      <workItem from="1612442525998" duration="949000" />
+      <workItem from="1612443516305" duration="2726000" />
+      <workItem from="1612446284393" duration="2156000" />
+      <workItem from="1612502764757" duration="1303000" />
+      <workItem from="1612504752324" duration="4371000" />
+      <workItem from="1612587912466" duration="20607000" />
+      <workItem from="1612622287951" duration="244000" />
+      <workItem from="1612622709391" duration="5456000" />
+      <workItem from="1612636863879" duration="267000" />
+      <workItem from="1612637159253" duration="324000" />
+      <workItem from="1612667113441" duration="2332000" />
+      <workItem from="1612673559859" duration="390000" />
+      <workItem from="1612681963893" duration="6485000" />
+      <workItem from="1612711453768" duration="4217000" />
+      <workItem from="1612753479725" duration="4882000" />
+      <workItem from="1612837491240" duration="207000" />
+      <workItem from="1612837728138" duration="3189000" />
+      <workItem from="1612843698888" duration="1363000" />
+      <workItem from="1612845086807" duration="196000" />
+      <workItem from="1612845304196" duration="2841000" />
+      <workItem from="1612853969106" duration="97000" />
+      <workItem from="1612854082089" duration="3551000" />
+      <workItem from="1612874189987" duration="488000" />
+      <workItem from="1612874703595" duration="144000" />
+      <workItem from="1612874873855" duration="575000" />
+      <workItem from="1612875482454" duration="10511000" />
+      <workItem from="1612889466797" duration="8851000" />
+      <workItem from="1612923244845" duration="76000" />
+      <workItem from="1612923351879" duration="90000" />
+      <workItem from="1612923462154" duration="5980000" />
+    </task>
+    <task id="LOCAL-00102" summary="donation added">
+      <created>1612281138825</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1612281138825</updated>
+    </task>
+    <task id="LOCAL-00103" summary="merged with siana,susmi">
+      <created>1612285746520</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1612285746521</updated>
+    </task>
+    <task id="LOCAL-00104" summary="event history complete :)">
+      <created>1612289773311</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1612289773311</updated>
+    </task>
+    <task id="LOCAL-00105" summary="siana part added">
+      <created>1612381813326</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1612381813326</updated>
+    </task>
+    <task id="LOCAL-00106" summary="view supply prob">
+      <created>1612384234619</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1612384234620</updated>
+    </task>
+    <task id="LOCAL-00107" summary="accounts ui updated">
+      <created>1612386646006</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1612386646007</updated>
+    </task>
+    <task id="LOCAL-00108" summary="accounts text field updated">
+      <created>1612387141498</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1612387141498</updated>
+    </task>
+    <task id="LOCAL-00109" summary="susmi merged, bargraph modified">
+      <created>1612430542510</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1612430542511</updated>
+    </task>
+    <task id="LOCAL-00110" summary="event id update">
+      <created>1612432398130</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1612432398130</updated>
+    </task>
+    <task id="LOCAL-00111" summary="food supply added, required amount bug">
+      <created>1612437188528</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1612437188528</updated>
+    </task>
+    <task id="LOCAL-00112" summary="final merge">
+      <created>1612446474272</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1612446474272</updated>
+    </task>
+    <task id="LOCAL-00113" summary="db sql sorted">
+      <created>1612450918037</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1612450918037</updated>
+    </task>
+    <task id="LOCAL-00114" summary="admin event btn pic added">
+      <created>1612507770547</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1612507770548</updated>
+    </task>
+    <task id="LOCAL-00115" summary="final push">
+      <created>1612508783229</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1612508783229</updated>
+    </task>
+    <task id="LOCAL-00116" summary="summary added">
+      <created>1612594357602</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1612594357602</updated>
+    </task>
+    <task id="LOCAL-00117" summary="bug solved">
+      <created>1612595066324</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1612595066325</updated>
+    </task>
+    <task id="LOCAL-00118" summary="summary added">
+      <created>1612595098789</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1612595098789</updated>
+    </task>
+    <task id="LOCAL-00119" summary="actual budget added">
+      <created>1612597501891</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1612597501891</updated>
+    </task>
+    <task id="LOCAL-00120" summary="accounts back button added, some css change">
+      <created>1612601553890</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1612601553890</updated>
+    </task>
+    <task id="LOCAL-00121" summary="supply details back button added">
+      <created>1612602181794</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1612602181794</updated>
+    </task>
+    <task id="LOCAL-00122" summary="expense update error solved">
+      <created>1612607205879</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1612607205879</updated>
+    </task>
+    <task id="LOCAL-00123" summary="expense table data will show current months expense">
+      <created>1612607586823</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1612607586823</updated>
+    </task>
+    <task id="LOCAL-00124" summary="salary expense modified,event salary button added">
+      <created>1612612194989</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1612612194989</updated>
+    </task>
+    <task id="LOCAL-00125" summary="some modification">
+      <created>1612629106988</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1612629106990</updated>
+    </task>
+    <task id="LOCAL-00126" summary="dashboard fxml,controller">
+      <created>1612673591665</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1612673591666</updated>
+    </task>
+    <task id="LOCAL-00127" summary="removed dbms part">
+      <created>1612682059845</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1612682059845</updated>
+    </task>
+    <task id="LOCAL-00128" summary="event summary added">
+      <created>1612715049936</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1612715049937</updated>
+    </task>
+    <task id="LOCAL-00129" summary="expense summary table added">
+      <created>1612716663453</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1612716663453</updated>
+    </task>
+    <task id="LOCAL-00130" summary="icon hover modified">
+      <created>1612717006874</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1612717006874</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Summary model added, budget problem solved">
+      <created>1612754836704</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1612754836704</updated>
+    </task>
+    <task id="LOCAL-00132" summary="add phone,email constraint">
+      <created>1612767671686</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1612767671686</updated>
+    </task>
+    <task id="LOCAL-00133" summary="donation summary error solved">
+      <created>1612768461706</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1612768461706</updated>
+    </task>
+    <task id="LOCAL-00134" summary="merged with siana">
+      <created>1612838699823</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1612838699824</updated>
+    </task>
+    <task id="LOCAL-00135" summary="some modification">
+      <created>1612846335717</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1612846335717</updated>
+    </task>
+    <task id="LOCAL-00136" summary="tableview theme change">
+      <created>1612847380626</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1612847380626</updated>
+    </task>
+    <task id="LOCAL-00137" summary="total person added">
+      <created>1612855737214</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1612855737214</updated>
+    </task>
+    <task id="LOCAL-00138" summary="added method in dashboardModel">
+      <created>1612857512460</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1612857512460</updated>
+    </task>
+    <task id="LOCAL-00139" summary="employee gender update,employee event expense removed">
+      <created>1612877656561</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1612877656561</updated>
+    </task>
+    <task id="LOCAL-00140" summary="registration modified">
+      <created>1612878486243</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1612878486243</updated>
+    </task>
+    <task id="LOCAL-00141" summary="db change">
+      <created>1612884757912</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1612884757912</updated>
+    </task>
+    <task id="LOCAL-00142" summary="password encryption">
+      <created>1612890050754</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1612890050755</updated>
+    </task>
+    <task id="LOCAL-00143" summary="update employee upgraded">
+      <created>1612890642978</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1612890642978</updated>
+    </task>
+    <task id="LOCAL-00144" summary="import file updated">
+      <created>1612891663192</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1612891663192</updated>
+    </task>
+    <task id="LOCAL-00145" summary="view doctor bug solved">
+      <created>1612892780723</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1612892780723</updated>
+    </task>
+    <task id="LOCAL-00146" summary="view employee bug solved">
+      <created>1612893702318</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1612893702318</updated>
+    </task>
+    <task id="LOCAL-00147" summary="view employee,doctor in event bug solved">
+      <created>1612894279718</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1612894279718</updated>
+    </task>
+    <task id="LOCAL-00148" summary="AddDoctorToEventController error solved">
+      <created>1612894561815</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1612894561815</updated>
+    </task>
+    <task id="LOCAL-00149" summary="employee register updated">
+      <created>1612898036781</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1612898036781</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Bdt added,some table is modified according to theme">
+      <created>1612925208750</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1612925208751</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="dashboard fxml,controller" />
+    <MESSAGE value="removed dbms part" />
+    <MESSAGE value="event summary added" />
+    <MESSAGE value="expense summary table added" />
+    <MESSAGE value="icon hover modified" />
+    <MESSAGE value="Summary model added, budget problem solved" />
+    <MESSAGE value="add phone,email constraint" />
+    <MESSAGE value="donation summary error solved" />
+    <MESSAGE value="merged with siana" />
+    <MESSAGE value="some modification" />
+    <MESSAGE value="tableview theme change" />
+    <MESSAGE value="total person added" />
+    <MESSAGE value="added method in dashboardModel" />
+    <MESSAGE value="employee gender update,employee event expense removed" />
+    <MESSAGE value="registration modified" />
+    <MESSAGE value="db change" />
+    <MESSAGE value="password encryption" />
+    <MESSAGE value="update employee upgraded" />
+    <MESSAGE value="import file updated" />
+    <MESSAGE value="view doctor bug solved" />
+    <MESSAGE value="view employee bug solved" />
+    <MESSAGE value="view employee,doctor in event bug solved" />
+    <MESSAGE value="AddDoctorToEventController error solved" />
+    <MESSAGE value="employee register updated" />
+    <MESSAGE value="Bdt added,some table is modified according to theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bdt added,some table is modified according to theme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="51" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SupplyDetails/Food/ViewFoodDetails/ViewFoodInformationModel.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/DoctorDetails/AddDoctor/AddDoctorController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SupplyDetails/Emergency/EmergencySupplyController.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Registration/RegisterController.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SupplyDetails/Food/ViewFoodDetails/ViewFoodInformationController.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/EmployeeDet/UpdateEmployee/UpdateEmployeeController.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/DoctorDetails/DoctorDetailsModel.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/ViewAssignees/AddVolunteersToEventModel.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/DoctorDetails/DoctorDetailsController.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/ViewAssignees/Employee/ViewAssignedEmployeesModel.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/ManageEventModel.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/CurrentAndUpcomingEvent/CurrentAndUpcomingEventModel.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/EventHistory/EventHistoryController.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/EventHistory/EventHistoryController.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/EventHistory/EventHistoryController.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/EventHistory/EventHistoryController.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/DonorDetails/AddDonation/addDonationModel.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/DonorDetails/donorDetailsController.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounts/Summary/SummaryModel.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounts/Summary/SummaryModel.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodController.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounts/Expenses/ExpensesModel.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounts/Expenses/ExpensesDetailsController.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounts/Expenses/ExpensesModel.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Accounts/Summary/EventSummary/EventSummaryModel.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/AssignSupply/EventFood/ViewEventFoodModel.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/EmployeeDet/UpdateEmployee/UpdateEmployeeController.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/EmployeeDet/AddEmployee/AddEmployeeController.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Person/EmployeeDet/AddEmployee/AddEmployeeController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Person/DoctorDetails/DoctorDetailsController.java</url>
+          <line>25</line>
+          <properties field="DoctorDetailsAnchorPane" class="Person.DoctorDetails.DoctorDetailsController" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Person/VolunteerDetails/VolunteerDetailsController.java</url>
+          <line>102</line>
+          <properties class="Person.VolunteerDetails.VolunteerDetailsController" method="searchFilterData">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/ViewAssignees/Employee/ViewAssignedEmployeesModel.java</url>
+          <line>11</line>
+          <properties class="EventDetails.ManageEvent.ViewAssignees.Employee.ViewAssignedEmployeesModel" method="getTableRecords">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/EventDetails/ManageEvent/ManageEventModel.java</url>
+          <line>29</line>
+          <properties class="EventDetails.ManageEvent.ManageEventModel" method="getEventDate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Person/EmployeeDet/AddEmployee/AddEmployeeController.java</url>
+          <line>92</line>
+          <properties class="Person.EmployeeDet.AddEmployee.AddEmployeeController" method="handleImportFileButton">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

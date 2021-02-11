@@ -1,0 +1,9 @@
+oishi,oishi@gmail.com,Female,mirpur,01098765432,Student
+raisa,raisa@gmail.com,Female,mirpur,01098763432,Student
+Ratul,Ratul@gmail.com,Male,gulshan,01098763232,Student
+ibtid,ibtid@gmail.com,Male,gulshan,01098765232,Student
+jisan,jisan@gmail.com,Male,dhanmondi,01098115432,Student
+Sabbir,Sabbir@gmail.com,Male,dhanmondi,01091765432,Student
+Anika,Anika@gmail.com,Female,uttara,01098763402,Student
+Shafi,Shafi@gmail.com,Male,uttara,01098765112,Student
+Farhan,Farhan@gmail.com,Male,uttara,01098760432,Student

@@ -1,0 +1,9 @@
+Adiba,Adiba@gmail.com,Female,mirpur,01098768432,Student
+Sananda,Sananda@gmail.com,Female,mirpur,01088765432,Student
+Saju,saju@gmail.com,Male,gulshan,01098765438,Student
+Afzal,afzal@gmail.com,Male,gulshan,01098765832,Student
+Alvi,alvi@gmail.com,Male,dhanmondi,01098765632,Student
+Nafiz,nafiz@gmail.com,Male,dhanmondi,01098745432,Student
+Susmi,susmi@gmail.com,Female,uttara,01098733432,Student
+Asfi,asfi@gmail.com,Male,uttara,01098765212,Student
+Sakib,Sakib@gmail.com,Male,uttara,01098760432,Student
